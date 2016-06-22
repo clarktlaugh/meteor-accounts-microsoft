@@ -2,7 +2,7 @@ Package.describe({
   name: "clarktlaugh:accounts-microsoft",
   summary: "Microsoft OAuth flow",
   version: "0.5.2",
-  git: "https://github.com/clarktlaugh/meteor-accounts-onedrive.git"
+  git: "https://github.com/clarktlaugh/meteor-accounts-microsoft.git"
 });
 
 Package.on_use(function(api) {
