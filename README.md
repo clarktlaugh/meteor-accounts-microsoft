@@ -25,7 +25,7 @@ is to edit the host file on your machine to make localhost look like a real doma
 
 ## Credits
 
-* Shamelessly based upon Google OAuth2 login service
+* Forked from https://github.com/maxkferg/meteor-accounts-onedrive, which was based upon Google OAuth2 login service.
 
 
 ## License
