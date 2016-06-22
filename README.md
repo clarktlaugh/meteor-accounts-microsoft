@@ -1,6 +1,6 @@
-# accounts-onedrive
+# accounts-microsoft
 
-OneDrive (Microsoft Account) OAuth2 login service for use with Meteor Auth
+Microsoft Account OAuth2 login service for use with Meteor Auth
 
 ## Package Dependencies
 
@@ -25,7 +25,7 @@ is to edit the host file on your machine to make localhost look like a real doma
 
 ## Credits
 
-* Forked from https://github.com/maxkferg/meteor-accounts-onedrive, which was based upon Google OAuth2 login service.
+* Forked from https://github.com/maxkferg/meteor-accounts-onedrive, which was based upon Google OAuth2 login service.  The primary changes to far are to update the naming (OneDrive -> Microsoft).
 
 
 ## License
