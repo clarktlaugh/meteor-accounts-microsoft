@@ -14,10 +14,10 @@ Only compatable with Meteor > 0.9.2
 
 ## Usage
 
-1. `meteor add accounts-onedrive`
+1. `meteor add clarktlaugh:accounts-microsoft`
 2. Register the app on [Microsoft Developers](https://account.live.com/developers/applications/).<br>
 3. Read the 'Meteor.loginWith&lt;ExternalService&gt;' section of the [Meteor docs](http://docs.meteor.com/#meteor_loginwithexternalservice) and make sure you set up your config and secret correctly.   
-4. Call `Meteor.loginWithOnedrive();`
+4. Call `Meteor.loginWithMicrosoft();`
 
 Due to Microsofts strict policies on authentication redirects, this app can not 
 be tested on localhost. The redirect url must be set to a real domain. One workaround
